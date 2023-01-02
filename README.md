@@ -15,4 +15,6 @@ posting updates to Github or in a gym 💪.
 - 🤖 Always looking for any opportunity to use Flutter or Jetpack Compose 
 - 👀 Always looking for opportunities to develop for all mobile devices
 - 💬 Ask me questions about iOS Development
+- 📚 Never stop learning. Currently mastering Android Development with Kotlin!
+- ❤️‍🔥 Mobile development is my passion 
 - 📫 Connect with me! - [LinkedIn](https://www.linkedin.com/in/tomas-sanni)
