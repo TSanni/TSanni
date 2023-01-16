@@ -4,7 +4,7 @@
 # Hi, I'm Tomas 👋
 
 Passionate software developer with a high focus in developing mobile
-appications for Apple's platorms - iOS/macoOS/iPadOS. You can find me regularly
+appications for Apple's platorms - iOS/macOS/iPadOS. You can find me regularly
 posting updates to Github or in a gym 💪.
 
 - 👨‍💻 My current drive is iOS development. All things Swift and beyond!
