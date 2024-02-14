@@ -2,9 +2,9 @@
 
 # Hi, I'm Tomas 👋
 
-Passionate software developer with great enthusiasm for web and mobile development. I've published multiple apps to Apple's App Store and also love building websites. You can find me active on GitHub developing my skills as a software developer or find me irl in a gym staying healthy 💪. 
+Passionate software developer with a drive for building robust, scalable, and elegant solutions to real-world problems. With multiple app publications numerous GitHub projects, I’ve cultivated a deep understanding of various programming languages, frameworks, and methodologies. 
 
-- 👨‍💻 My drive is software development. Wide ride of experience that includes ReactJS and iOS Development
+- 👨‍💻 My drive is software development. Wide range of experience that includes ReactJS and iOS Development
 - 📚 Multiple publications and projects showcasing my expertise in different areas of development.
 - 📱 Check out my apps on the App Store. The source code is available here on GitHub
 - 🤍 Declarative UI has become my absolute favorite way of developing applications
