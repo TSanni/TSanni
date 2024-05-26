@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Tomas</h1>
 <h3 align="center">A guy that enjoys creating and maintaining software of all kinds</h3>
 
-<img align="right" src="https://github.com/TSanni/TSanni/assets/50508424/b78fd835-b3a9-4a51-8971-25071115d710" width="400" height="400">
+<img align="right" src="https://github.com/TSanni/TSanni/assets/50508424/b78fd835-b3a9-4a51-8971-25071115d710" width="300" height="300">
 
 - 🔭 I’m currently working on [Houston Metro](https://github.com/TSanni/HoustonMetroApp-iOS)
 
