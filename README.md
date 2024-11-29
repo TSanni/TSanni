@@ -6,8 +6,6 @@
 [comment]: <> (<img align="center" src="https://github.com/TSanni/TSanni/assets/50508424/b78fd835-b3a9-4a51-8971-25071115d710" width="300" height="300">)
 
 
-- 🔭 I’m currently working on [Houston Metro](https://github.com/TSanni/HoustonMetroApp-iOS)
-
 - 🌱 I’m currently learning **the latest and greatest with Web and iOS Development**
 
 - 💬 Ask me about **iOS Development or other Software related questions**
